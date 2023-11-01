@@ -32,31 +32,38 @@ namespace ChatBotGPT
             }
         }
 
+        private void chatGPTProcessing()
+        {
+            string answer = getGPTResponse(txtInput.Text);
+
+            richOuput.Text += "Hỏi: " + txtInput.Text.Replace(Environment.NewLine, "") + Environment.NewLine;
+
+
+            txtInput.Text = "Đang xử lý ...";
+
+
+            richOuput.Text += "Trả lời: " + answer + Environment.NewLine;
+
+            txtInput.Text = "";
+            txtInput.Focus();
+        }
+
         private void txtInput_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Enter)
             {
-                string answer = getGPTResponse(txtInput.Text);
-
-                richOuput.Text += "Hỏi: " + txtInput.Text.Replace(Environment.NewLine, "") + Environment.NewLine;
-               
-
-                txtInput.Text = "Đang xử lý ...";
-
-                
-                richOuput.Text += "Trả lời: " + answer + Environment.NewLine;
-
-                txtInput.Text = "";
-                txtInput.Focus();
-                
-                
+                chatGPTProcessing();
             }
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            richOuput.Text = "";
             txtInput.Focus();
+        }
+
+        private void btnSend_Click(object sender, EventArgs e)
+        {
+            chatGPTProcessing();
         }
     }
 }

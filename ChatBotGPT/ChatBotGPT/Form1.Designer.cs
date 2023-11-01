@@ -36,9 +36,10 @@
             // richOuput
             // 
             richOuput.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            richOuput.Location = new Point(12, 12);
+            richOuput.Location = new Point(14, 16);
+            richOuput.Margin = new Padding(3, 4, 3, 4);
             richOuput.Name = "richOuput";
-            richOuput.Size = new Size(717, 353);
+            richOuput.Size = new Size(819, 469);
             richOuput.TabIndex = 0;
             richOuput.Text = "";
             // 
@@ -46,10 +47,11 @@
             // 
             txtInput.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             txtInput.Font = new Font("Microsoft Sans Serif", 15F, FontStyle.Regular, GraphicsUnit.Point);
-            txtInput.Location = new Point(12, 371);
+            txtInput.Location = new Point(14, 495);
+            txtInput.Margin = new Padding(3, 4, 3, 4);
             txtInput.Multiline = true;
             txtInput.Name = "txtInput";
-            txtInput.Size = new Size(593, 67);
+            txtInput.Size = new Size(677, 88);
             txtInput.TabIndex = 1;
             txtInput.KeyDown += txtInput_KeyDown;
             // 
@@ -57,21 +59,24 @@
             // 
             btnSend.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Right;
             btnSend.Font = new Font("Segoe UI", 15F, FontStyle.Regular, GraphicsUnit.Point);
-            btnSend.Location = new Point(615, 371);
+            btnSend.Location = new Point(703, 495);
+            btnSend.Margin = new Padding(3, 4, 3, 4);
             btnSend.Name = "btnSend";
-            btnSend.Size = new Size(114, 67);
+            btnSend.Size = new Size(130, 89);
             btnSend.TabIndex = 2;
             btnSend.Text = "Gửi";
             btnSend.UseVisualStyleBackColor = true;
+            btnSend.Click += btnSend_Click;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(741, 450);
+            ClientSize = new Size(847, 600);
             Controls.Add(btnSend);
             Controls.Add(txtInput);
             Controls.Add(richOuput);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "ChatBotGPT";
             Load += Form1_Load;
