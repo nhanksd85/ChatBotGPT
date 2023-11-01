@@ -1,0 +1,16 @@
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\bin\Debug\net6.0-windows\ChatBotGPT.exe
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\bin\Debug\net6.0-windows\ChatBotGPT.deps.json
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\bin\Debug\net6.0-windows\ChatBotGPT.runtimeconfig.json
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\bin\Debug\net6.0-windows\ChatBotGPT.dll
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\bin\Debug\net6.0-windows\ChatBotGPT.pdb
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\ChatBotGPT.Form1.resources
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\ChatBotGPT.csproj.GenerateResource.cache
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\ChatBotGPT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\ChatBotGPT.AssemblyInfoInputs.cache
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\ChatBotGPT.AssemblyInfo.cs
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\ChatBotGPT.csproj.CoreCompileInputs.cache
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\ChatBotGPT.dll
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\refint\ChatBotGPT.dll
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\ChatBotGPT.pdb
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\ChatBotGPT.genruntimeconfig.cache
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\ref\ChatBotGPT.dll
