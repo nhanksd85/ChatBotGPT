@@ -36,14 +36,14 @@ namespace ChatBotGPT
         {
             if (e.KeyCode == Keys.Enter)
             {
+                string answer = getGPTResponse(txtInput.Text);
+
                 richOuput.Text += "Hỏi: " + txtInput.Text.Replace(Environment.NewLine, "") + Environment.NewLine;
                
 
-
                 txtInput.Text = "Đang xử lý ...";
 
-                string answer = getGPTResponse(txtInput.Text);
-               
+                
                 richOuput.Text += "Trả lời: " + answer + Environment.NewLine;
 
                 txtInput.Text = "";
