@@ -14,3 +14,6 @@ D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\r
 D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\ChatBotGPT.pdb
 D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\ChatBotGPT.genruntimeconfig.cache
 D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\ref\ChatBotGPT.dll
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\ChatBotGPT.csproj.AssemblyReference.cache
+D:\Teaching\BWACO\DEMO_DESK_APP\ChatBotGPT\ChatBotGPT\obj\Debug\net6.0-windows\ChatBotGPT.csproj.CopyComplete
